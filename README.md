@@ -28,9 +28,7 @@
 
 ## ✰ Result  
 
-- [Homework-1](https://github.com/Guppi17/Bash/blob/main/Homework-1.1.txt)  
-
-- [Homework-2](https://github.com/Guppi17/Bash/blob/main/Homework-1.2.txt)   
+- [Homework-1 and Homework-2](https://docs.google.com/spreadsheets/d/1GoyG-Lyossw0pjbgZgO2iFbI6uSSzV4q7g3gkk6L-xo/edit?usp=sharing)  
 
 
 <div align="center">
